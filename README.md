@@ -8,8 +8,8 @@
 ★⋆        ┊ .  ˚
            ˚★
 </pre>
-           # Guild Ledger 
 </div>
+<h1 align="center">Guild Ledger </h1>
 
 <h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
 
