@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 <pre>
 #┊         ┊       ┊   ┊    ┊        ┊
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
@@ -8,20 +8,17 @@
 ★⋆      ┊ .  ˚
            ˚★
 </pre>
-
 <pre>
           𝄞⋆ ݁♪ ╱|
              (˚ˎ 。7
               |、˜〵
-                 じしˍ,)ノ  𝄞⋆ ݁♪
+              じしˍ,)ノ  𝄞⋆ ݁♪
 </pre>
 </div>
 
 <h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
 
-<p align="center">
-<i>A kingdom runs on more than crowns and conquest. Someone has to keep the records.</i>
-</p>
+<p align="center"><i>A kingdom runs on more than crowns and conquest. Someone has to keep the records.</i></p>
 
 Guild Ledger is an evolving software project exploring the intersection of **Software Engineering, Agentic AI, and Interactive World Simulation.**
 
@@ -31,11 +28,11 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 
 <div align="center">
 <pre>
-⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                 ⢀⡀
-⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                ⣀⠠⠊⠁⡸
-⢨⡑⠀⠀⠀⢉⡐⢆⠀                 ⡠⢂⡉⠀⠀⠀⢊⡅
-⠀⠘⠭⢀⡄⢣⡤⠜ **The Machinery**⠡⢤⡞⢠⡀⠭⠃⠀
-⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                  ⠈⠉⠀⠀⠀⠀
+⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                            ⢀⡀
+⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                          ⣀⠠⠊⠁⡸
+⢨⡑⠀⠀⠀⢉⡐⢆⠀                            ⡠⢂⡉⠀⠀⠀⢊⡅
+⠀⠘⠭⢀⡄⢣⡤⠜   The Machinery   ⠡⢤⡞⢠⡀⠭⠃⠀
+⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                             ⠈⠉⠀⠀⠀⠀
 </pre>
 </div>
 
@@ -53,12 +50,12 @@ Built around a combination of:
 <pre>
 /ᐢ⑅ᐢ\   ♡   ₊˚
 ꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
-./づ~ :¨·.·¨:     ₊˚   ###  A Matter of Architecture
+./づ~ :¨·.·¨:     ₊˚
            `·..·‘    ₊˚   ♡
+
+             ♡ A Matter of Architecture
 </pre>
 </div>
-
-
 
 The system is envisioned around two cooperating layers:
 
@@ -79,8 +76,8 @@ The architecture is taking shape, and the finer details shall remain classified 
 
 <div align="center">
 
-### COMING SOON.
+<h3>COMING SOON.</h3>
 
-*Until then, mind your accounts. The quartermaster has a reputation to maintain.*
+<i>Until then, mind your accounts. The quartermaster has a reputation to maintain.</i>
 
 </div>
