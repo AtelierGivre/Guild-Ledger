@@ -1,20 +1,27 @@
+ <div align="center">
+<pre>
 #┊         ┊       ┊   ┊    ┊        ┊
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
 ┊         ┊       ┊   ⋆
-┊         ┊       ★⋆ 
+┊         ┊       ★⋆
 ┊ ◦          Guild Ledger ͙͘͡★
 ★⋆      ┊ .  ˚
            ˚★
-#
-#              𝄞⋆ ݁♪ ╱|
-#                 (˚ˎ 。7  
-#                  |、˜〵          
-#                  じしˍ,)ノ  𝄞⋆ ݁♪ .
+</pre>
 
+<pre>
+          𝄞⋆ ݁♪ ╱|
+             (˚ˎ 。7
+              |、˜〵
+              じしˍ,)ノ  𝄞⋆ ݁♪
+</pre>
+</div>
 
-### An Intelligent Fantasy Guild Simulation
+<h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
 
-*A kingdom runs on more than crowns and conquest. Someone has to keep the records.*
+<p align="center">
+<i>A kingdom runs on more than crowns and conquest. Someone has to keep the records.</i>
+</p>
 
 Guild Ledger is an evolving software project exploring the intersection of **Software Engineering, Agentic AI, and Interactive World Simulation.**
 
@@ -22,11 +29,15 @@ Set within a persistent fantasy guild, the project brings together structured ga
 
 Behind the ledgers, there is an architecture designed to retrieve, reason, investigate, and act. Not necessarily in that order.
 
-###   ⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⢀⡀
-⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀              ⠀⣀⠠⠊⠁⡸
-⢨⡑⠀⠀⠀⢉⡐⢆              ⠀⡠⢂⡉⠀⠀⠀⢊⡅
-⠀⠘⠭⢀⡄⢣⡤⠜ The Machinery⠀⠡⢤⡞⢠⡀⠭⠃⠀
-⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀               ⠀⠈⠉⠀⠀⠀⠀
+<div align="center">
+<pre>
+⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                  ⢀⡀
+⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                 ⣀⠠⠊⠁⡸
+⢨⡑⠀⠀⠀⢉⡐⢆⠀                  ⡠⢂⡉⠀⠀⠀⢊⡅
+⠀⠘⠭⢀⡄⢣⡤⠜⠀ ### The Machinery⠡⢤⡞⢠⡀⠭⠃⠀
+⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                   ⠈⠉⠀⠀⠀⠀
+</pre>
+</div>
 
 Built around a combination of:
 
@@ -38,7 +49,16 @@ Built around a combination of:
 - SQLite
 - Discord.py
 
-### A Matter of Architecture
+<div align="center">
+<pre>
+/ᐢ⑅ᐢ\   ♡   ₊˚
+꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
+./づ~ :¨·.·¨:     ₊˚   ###  A Matter of Architecture
+           `·..·‘    ₊˚   ♡
+</pre>
+</div>
+
+
 
 The system is envisioned around two cooperating layers:
 
@@ -57,6 +77,10 @@ The architecture is taking shape, and the finer details shall remain classified 
 
 ---
 
-**COMING SOON.**
+<div align="center">
+
+### COMING SOON.
 
 *Until then, mind your accounts. The quartermaster has a reputation to maintain.*
+
+</div>
