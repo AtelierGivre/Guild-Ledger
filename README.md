@@ -29,7 +29,7 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 ⠀⠘⠭⢀⡄⢣⡤⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠡⢤⡞⢠⡀⠭⠃⠀
 ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀
 </pre>
-<h2 align="center">⋆ ♪The Machinery⋆ ♪</h2><b></b>  
+<h2 align="center">The Machinery</h2><b></b>  
 </div>
 
 Built around a combination of:
@@ -49,7 +49,7 @@ Built around a combination of:
 ./づ~ :¨·.·¨:  ₊˚
     `·..·‘  ₊˚  ♡
 </pre>
- <h2 align="center">♡♪ A Matter of Architecture ♪♡</h2><b></b>  
+ <h2 align="center">♡ A Matter of Architecture ♡</h2><b></b>  
 </div>
 
 The system is envisioned around two cooperating layers:
