@@ -13,7 +13,7 @@
           𝄞⋆ ݁♪ ╱|
              (˚ˎ 。7
               |、˜〵
-              じしˍ,)ノ  𝄞⋆ ݁♪
+                 じしˍ,)ノ  𝄞⋆ ݁♪
 </pre>
 </div>
 
@@ -31,11 +31,11 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 
 <div align="center">
 <pre>
-⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                  ⢀⡀
-⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                 ⣀⠠⠊⠁⡸
-⢨⡑⠀⠀⠀⢉⡐⢆⠀                  ⡠⢂⡉⠀⠀⠀⢊⡅
-⠀⠘⠭⢀⡄⢣⡤⠜⠀ ### The Machinery⠡⢤⡞⢠⡀⠭⠃⠀
-⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                   ⠈⠉⠀⠀⠀⠀
+⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                 ⢀⡀
+⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                ⣀⠠⠊⠁⡸
+⢨⡑⠀⠀⠀⢉⡐⢆⠀                 ⡠⢂⡉⠀⠀⠀⢊⡅
+⠀⠘⠭⢀⡄⢣⡤⠜ **The Machinery**⠡⢤⡞⢠⡀⠭⠃⠀
+⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                  ⠈⠉⠀⠀⠀⠀
 </pre>
 </div>
 
