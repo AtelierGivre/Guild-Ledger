@@ -4,10 +4,11 @@
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
 ┊         ┊       ┊   ⋆
 ┊         ┊       ★⋆
-┊ ◦          Guild Ledger ★
-★⋆      ┊ .  ˚
+┊ ◦       ★
+★⋆        ┊ .  ˚
            ˚★
 </pre>
+           # Guild Ledger 
 </div>
 
 <h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
