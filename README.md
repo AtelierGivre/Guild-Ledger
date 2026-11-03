@@ -8,12 +8,6 @@
 ★⋆      ┊ .  ˚
            ˚★
 </pre>
-<pre>
- /|
-(˚ˎ 。7
- |、˜〵
- じしˍ,)ノ
-</pre>
 </div>
 
 <h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
