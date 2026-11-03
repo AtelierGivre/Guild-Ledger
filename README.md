@@ -8,13 +8,11 @@
 ★⋆      ┊ .  ˚
            ˚★
 </pre>
-
 <pre>
-♪ ⋆ ♫ ⋆ ♪           
  /|
 (˚ˎ 。7
  |、˜〵
- じしˍ,)ノ  ♪ ⋆ ♫ ⋆ ♪
+ じしˍ,)ノ
 </pre>
 </div>
 
@@ -37,6 +35,8 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀
 </pre>
 <b>The Machinery</b>
+
+           
 </div>
 
 Built around a combination of:
@@ -57,6 +57,8 @@ Built around a combination of:
     `·..·‘  ₊˚  ♡
 </pre>
 ♡ <b>A Matter of Architecture</b> ♡
+
+           
 </div>
 
 The system is envisioned around two cooperating layers:
