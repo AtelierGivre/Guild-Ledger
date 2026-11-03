@@ -22,7 +22,11 @@ Set within a persistent fantasy guild, the project brings together structured ga
 
 Behind the ledgers, there is an architecture designed to retrieve, reason, investigate, and act. Not necessarily in that order.
 
-### The Machinery
+###   ⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⢀⡀
+⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀              ⠀⣀⠠⠊⠁⡸
+⢨⡑⠀⠀⠀⢉⡐⢆              ⠀⡠⢂⡉⠀⠀⠀⢊⡅
+⠀⠘⠭⢀⡄⢣⡤⠜ The Machinery⠀⠡⢤⡞⢠⡀⠭⠃⠀
+⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀               ⠀⠈⠉⠀⠀⠀⠀
 
 Built around a combination of:
 
