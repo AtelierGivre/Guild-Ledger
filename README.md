@@ -29,8 +29,7 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 ⠀⠘⠭⢀⡄⢣⡤⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠡⢤⡞⢠⡀⠭⠃⠀
 ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀
 </pre>
-<b>The Machinery</b>
-
+<h2 align="center">The Machinery</h2><b></b>
            
 </div>
 
