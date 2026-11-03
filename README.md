@@ -9,7 +9,7 @@
            ˚★
 </pre>
 </div>
-<h1 align="center">Guild Ledger </h1>
+<h1 align="center">⋆ ♪Guild Ledger♪ ⋆ ♫ </h1>
 
 <h3 align="center">An Intelligent Fantasy Guild Simulation</h3>
 
@@ -29,8 +29,7 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 ⠀⠘⠭⢀⡄⢣⡤⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠡⢤⡞⢠⡀⠭⠃⠀
 ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀
 </pre>
-<h2 align="center">The Machinery</h2><b></b>
-           
+<h2 align="center">⋆ ♪The Machinery⋆ ♪</h2><b></b>  
 </div>
 
 Built around a combination of:
@@ -50,9 +49,7 @@ Built around a combination of:
 ./づ~ :¨·.·¨:  ₊˚
     `·..·‘  ₊˚  ♡
 </pre>
-♡ <b>A Matter of Architecture</b> ♡
-
-           
+ <h2 align="center">♡♪ A Matter of Architecture ♪♡</h2><b></b>  
 </div>
 
 The system is envisioned around two cooperating layers:
