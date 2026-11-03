@@ -1,1 +1,58 @@
-# Guild-Ledger
+#┊         ┊       ┊   ┊    ┊        ┊
+┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
+┊         ┊       ┊   ⋆
+┊         ┊       ★⋆ 
+┊ ◦          Guild Ledger ͙͘͡★
+★⋆      ┊ .  ˚
+           ˚★
+#
+#              𝄞⋆ ݁♪ ╱|
+#                 (˚ˎ 。7  
+#                  |、˜〵          
+#                  じしˍ,)ノ  𝄞⋆ ݁♪ .
+
+
+### An Intelligent Fantasy Guild Simulation
+
+*A kingdom runs on more than crowns and conquest. Someone has to keep the records.*
+
+Guild Ledger is an evolving software project exploring the intersection of **Software Engineering, Agentic AI, and Interactive World Simulation.**
+
+Set within a persistent fantasy guild, the project brings together structured game mechanics, multi-agent intelligence, and a world that remembers more than it lets on.
+
+Behind the ledgers, there is an architecture designed to retrieve, reason, investigate, and act. Not necessarily in that order.
+
+### The Machinery
+
+Built around a combination of:
+
+- Python · FastAPI
+- LangGraph · LangChain
+- LlamaIndex · FAISS
+- Hugging Face
+- Model Context Protocol (MCP)
+- SQLite
+- Discord.py
+
+### A Matter of Architecture
+
+The system is envisioned around two cooperating layers:
+
+- **The World Engine:** Responsible for the rules, records, resources, and consequences.
+- **The Intelligence Engine:** Responsible for interpreting requests, investigating discrepancies, and coordinating operations.
+
+The distinction is deliberate. Intelligence may advise the guild, but the ledger has the final say.
+
+### 📜 Development Status
+
+The guild is undergoing a rather ambitious expansion.
+
+Some records have been recovered. Others remain under investigation.
+
+The architecture is taking shape, and the finer details shall remain classified for the time being.
+
+---
+
+**COMING SOON.**
+
+*Until then, mind your accounts. The quartermaster has a reputation to maintain.*
