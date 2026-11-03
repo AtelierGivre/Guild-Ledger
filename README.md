@@ -1,18 +1,18 @@
 <div align="center">
 <pre>
-#┊         ┊       ┊   ┊    ┊        ┊
+┊         ┊       ┊   ┊    ┊        ┊
 ┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
 ┊         ┊       ┊   ⋆
 ┊         ┊       ★⋆
-┊ ◦          Guild Ledger ͙͘͡★
+┊ ◦          Guild Ledger ★
 ★⋆      ┊ .  ˚
            ˚★
 </pre>
 <pre>
-          𝄞⋆ ݁♪ ╱|
-             (˚ˎ 。7
-              |、˜〵
-              じしˍ,)ノ  𝄞⋆ ݁♪
+ 𝄞⋆ ݁♪ ╱|
+    (˚ˎ 。7
+     |、˜〵
+     じしˍ,)ノ  𝄞⋆ ݁♪
 </pre>
 </div>
 
@@ -28,12 +28,13 @@ Behind the ledgers, there is an architecture designed to retrieve, reason, inves
 
 <div align="center">
 <pre>
-⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀                            ⢀⡀
-⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀ ⠀                          ⣀⠠⠊⠁⡸
-⢨⡑⠀⠀⠀⢉⡐⢆⠀                            ⡠⢂⡉⠀⠀⠀⢊⡅
-⠀⠘⠭⢀⡄⢣⡤⠜   The Machinery   ⠡⢤⡞⢠⡀⠭⠃⠀
-⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀                             ⠈⠉⠀⠀⠀⠀
+⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀
+⢇⠈⠑⠄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠠⠊⠁⡸
+⢨⡑⠀⠀⠀⢉⡐⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢂⡉⠀⠀⠀⢊⡅
+⠀⠘⠭⢀⡄⢣⡤⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠡⢤⡞⢠⡀⠭⠃⠀
+⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀
 </pre>
+<b>The Machinery</b>
 </div>
 
 Built around a combination of:
@@ -49,12 +50,11 @@ Built around a combination of:
 <div align="center">
 <pre>
 /ᐢ⑅ᐢ\   ♡   ₊˚
-꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
-./づ~ :¨·.·¨:     ₊˚
-           `·..·‘    ₊˚   ♡
-
-             ♡ A Matter of Architecture
+꒰ ˶• ༝ •˶꒱  ♡‧₊˚  ♡
+./づ~ :¨·.·¨:  ₊˚
+    `·..·‘  ₊˚  ♡
 </pre>
+♡ <b>A Matter of Architecture</b> ♡
 </div>
 
 The system is envisioned around two cooperating layers:
